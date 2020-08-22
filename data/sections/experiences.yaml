@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Extermal refrence Co.
+    url: "https://externalreference.com/"
+    location: Barcelona
+    # company overview
+    overview: 
+  positions:
+  - designation: Junior Designer
+    start: Feb 2020
+    end: Jul 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop Exhibition space
+    - Develop fabrication file
+    - Design and develop interior elements for a shopping center
+
+- company:
+    name: Iaac
+    url: "https://iaac.net"
+    location: Barcelona
+    overview: School of architecture and urban planning 
+  positions:
+  - designation: Teacher assistance
+    start: Jan 2018
+    end: Apr 2017
+    responsibilities:
+    - Develop scripts for the course
+    - Prepare content and contex for student projects
+    - Helping student with their ideas and scripts
+    - Prepare their files for fabrication
+
+- company:
+    name: Iaac Global summer school
+    url: "http://globalschool.iaac.net/"
+    location: Barcelona
+    overview: a programe which runs every summer all around the world.
+  positions:
+  - designation: Fabrication assistance
+    start: July 2018
+    end: July 2018
+    responsibilities:
+    - Prepare Tool for robot arm.
+    - Develop scripts for robot.
+    - Help students to develop their ideas
+    - Supervising students to run the robot.

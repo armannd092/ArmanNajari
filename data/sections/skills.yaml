@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Rhino
+  icon: "images/skills/rhino.svg"
+  summary: "is the main 3D modeling software that I am using."
+  url: "https://www.rhino3d.com/"
+
+- name: Grasshopper
+  icon: "images/skills/gh.svg"
+  summary: "is an add on environment in Rhino and it is a computational design tool."
+  url: "https://www.grasshopper3d.com/"
+
+- name: Python
+  icon: "images/skills/python.svg"
+  summary: "is the main programming language that I am using for most of my project."
+  url: "https://www.python.org/"
+
+- name: C/C#
+  icon: "images/skills/C.png"
+  summary: "are my secondary language that I am usually using for programming micro-controllers."
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+
+- name: Adobe illustrator
+  icon: "images/skills/illustrator.svg"
+  summary: "is my main vector base graphic design although I am also familiar with Inkscape."
+  url: "https://www.adobe.com/products/illustrator.html"
+
+- name: Adobe Photoshop
+  icon: "images/skills/photoshop.svg"
+  summary: "is the software that I have been uning for image editing and render post production"
+  url: "https://www.adobe.com/products/photoshop.html"
+
+- name: Adobe after effects/Premiere 
+  icon: "images/skills/premiere.svg"
+  summary: "are my tools for Video editing and motion graphics design they are not my main skills but I can manage my basic needs"
+  url: "https://www.adobe.com/products/premiere.html"
+
+- name: Adobe Indesign
+  icon: "images/skills/indesign.svg"
+  summary: "is my tool for prepare and organize my physical and digital publications"
+  url: "https://www.adobe.com/products/indesign.html"
+
+- name: Adobe XD
+  icon: "images/skills/xd.svg"
+  summary: "is my tool to prototype my web/app ideas. I am also familiar with InVison."
+  url: "https://www.adobe.com/products/xd.html"
+
+- name: KiCAD
+  icon: "images/skills/kiCad.svg"
+  summary: "is the an opensource tool for electronic design. I am using it for schematic and PCB design."
+  url: "https://kicad-pcb.org/"
+
+- name: Arduino
+  icon: "images/skills/arduino.svg"
+  summary: "library and IDE for programming micro-controllers. I am also familiar with PlatformIO and microPython"
+  url: "https://www.arduino.cc/"
+
+- name: Processing
+  icon: "images/skills/processing.svg"
+  summary: "is my tool for graphics generation and inter active interfaces"
+  url: "https://processing.org/"

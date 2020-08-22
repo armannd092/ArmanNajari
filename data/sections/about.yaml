@@ -1,0 +1,76 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# your designation
+designation: Designer
+# your company information
+#company:
+#  name: Freelance
+#  url: "https://www.armannajari.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a researcher with a background in architec-ture. The main scopes of my research are computa-tional design and simulations, material research, and digital fabrication. I have been interested in Big-data and geospatial data on the urban scale, I recently ﬁnished my master thesis on this topic. Furthermore, I have a passion for the machine learning approach and the possible application of it in the ﬁeld of archi-tecture and urban planning. '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "armannd092@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/armannd092"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/armannd092/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/arman-najari-52a5a3a7/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/armannd"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/ar.nadjari"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Desire to learn 
+  percentage: 95
+  color: "#AEECEA"
+- name: Team Work
+  percentage: 90
+  color: "#80D8D5"
+- name: Communication
+  percentage: 80
+  color: "#66C3C0"
+- name: Problem Solving
+  percentage: 85
+  color: "#44A7A4"
+- name: Hard Working
+  percentage: 85
+  color: "#248D8A"
+- name: Critical Thinking
+  percentage: 80
+  color: "#0B6461"
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
