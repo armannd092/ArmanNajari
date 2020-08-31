@@ -1,6 +1,6 @@
 ---
 title: "Intro"
-date: 2020-08-15
+date: 2020-08-22
 hero: /images/posts/intro/intro-logo.svg
 description: introduction to my portfolio
 menu:

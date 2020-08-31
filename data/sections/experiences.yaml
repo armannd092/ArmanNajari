@@ -47,7 +47,7 @@ experiences:
     url: "http://globalschool.iaac.net/"
     location: Barcelona
     overview: a programe which runs every summer all around the world.
-  positions:
+  positions: 
   - designation: Fabrication assistance
     start: July 2018
     end: July 2018
@@ -56,3 +56,31 @@ experiences:
     - Develop scripts for robot.
     - Help students to develop their ideas
     - Supervising students to run the robot.
+
+- company:
+    name: Islamic azad univercity west tehran base
+    url: "http://wtiau.ac.ir/en"
+    location: Tehran
+    overview: Engineering univercity
+  positions: 
+  - designation: Design assistance
+    start: Oct 2016
+    end: Oct 2016
+    responsibilities:
+    - Help students to develop thier ideas.
+    - Teaching them how to us adobe tools to communicat their designs.
+    - Make a booklet from student works.
+
+- company:
+    name: R&D of Pasargad Oil
+    url: "http://www.pasargadoil.com/en"
+    location: Tehran
+    overview: Petroleum company
+  positions: 
+  - designation: Freelance designer
+    start: Mar 2014
+    end: July 2014
+    responsibilities:
+    - Planning commercial building 
+    - Residential Design 
+    - Facade Design 

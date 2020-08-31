@@ -19,3 +19,17 @@ Advisor: Areti Markopoulou, Raimund Krenmüller, David Andres Leon, Angelos Chro
 Team: Abhishek Soman, Martin Garcia-Miro, Mateo Proano Albuja
 
 [External link](http://www.iaacblog.com/programs/hexwood-programming-timber-laminates-wood/)
+
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/275929243" allowfullscreen></iframe>
+</div>
+<div>
+	<p>		
+	</p>
+</div>
+<div class="alert alert-danger" role="alert">
+	<span class="glyphicon glyphicon-warning-sign" aria-hidden="true"></span>
+	<span class="sr-only">Error:</span> 
+	Under construction...
+</div>

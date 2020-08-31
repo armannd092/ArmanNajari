@@ -1,7 +1,7 @@
 ---
 title: "The Eye"
 date: 2019-07-14
-hero : /images/posts/urban/theEye.jpg
+hero : /images/posts/urban/theEye/theEye.jpg
 menu:
   sidebar:
     name: The Eye
@@ -18,3 +18,16 @@ Advisor : Areti Markopoulou
 
 [External link](http://www.iaacblog.com/programs/the-eye-final/)
 
+{{< vs 3 >}}
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://youtube.com/embed/K0vt-6uaA7U" allowfullscreen></iframe>
+</div>
+{{< vs 3 >}}
+<div class="container">
+	<img src="/images/posts/urban/theEye/ProfilePhone.png" class="img-fluid" alt="Responsive image">
+	{{< vs 3 >}}
+	<img src="/images/posts/urban/theEye/Simulator.png" class="img-fluid" alt="Responsive image">
+	{{< vs 3 >}}
+	<img src="/images/posts/urban/theEye/StreetSelected.png" class="img-fluid" alt="Responsive image">
+</div>
+{{< vs 3 >}}

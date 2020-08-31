@@ -15,6 +15,21 @@ The agenda is to further push the fabrication of curved surfaces with composite 
 
 Advisor: Mehran Davari, Zubin Khabazi, Arman Khalilbeigi, Esmaeil Mottaghi, Sina Salimzadeh
 
-Team: 
-https://vimeo.com/219369871
-http://morphogenesism.com/wp/craft-2016/
+Team: Ovieis Shahnaii, Pooyan Kazemi, Behzad Fattahi, Faezeh Sadeghi, Mahdi Sheikh Asadi, Mostafa Shiri, Mohamad Semnaninan, Ladan Toudeshki, Ali Ahmadi, Javad Norouzi, Elmira Shirvani, Ardeshir Talaei, Alireza Sheikhlar, Elmira Abbasi, Farbod Hamidian, Arman Najari, Mona Mohamadi, Saedeh Sadeghi, Saba Mahdi, Kourosh Emami, Atefe Dehnavi, Ava Mozafarinejad, Arezoo Rajaei, Nima Safari, Setare Houshmand, Vahid Khabazan, Nazafarin Behboudikhah
+
+
+[External refrence](http://morphogenesism.com/wp/craft-2016/)
+
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/219369871" allowfullscreen></iframe>
+</div>
+<div>
+	<p>		
+	</p>
+</div>
+<div class="alert alert-danger" role="alert">
+	<span class="glyphicon glyphicon-warning-sign" aria-hidden="true"></span>
+	<span class="sr-only">Error:</span> 
+	Under construction...
+</div>
